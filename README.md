@@ -1,4 +1,4 @@
-## Course discourse classification
+## On-line discussion classification
 ### Background
 I anayzed a dataset presented in Zhang, Culterton and Paritosh (2017) (also see https://github.com/google-research-datasets/coarse-discourse).  The authors have collected large corpus of threads of discussion that involve back and force comments from Reddit (hosting news aggregation, web content rating, and discussion website).  The comments were manually labeled with nine categories (also known as speech/discourse act such as Q&A, disagreement, and agreement).   The goal of this study is expanding the scope of current speech act classification problems that mainly focused on Q&A or considered only communities for technical support.  Therefore classification for a richer set of categories is an interesting and challenging step forward in this type of question. 
 
